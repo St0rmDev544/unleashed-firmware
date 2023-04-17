@@ -1,6 +1,6 @@
 ## Credits
 
-https://github.com/xMasterX
+https://github.com/DarkFlippers
 
 <h3 align="center">
 <a href="https://github.com/DarkFlippers/unleashed-firmware">
